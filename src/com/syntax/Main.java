@@ -24,6 +24,10 @@ public class Main {
         narwhal.color="green";
         narwhal.size="234566788";
 
-
+//adding moon1 feature
+        Moon1 mooner=new Moon1();
+        mooner.color="pink";
+        mooner.radius="123443221";
+        mooner.lightning="27564564lum";
     }
 }
