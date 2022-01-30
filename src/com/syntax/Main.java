@@ -13,6 +13,10 @@ public class Main {
         solana.Heat="6578897098";
         solana.radius="684979";
         solana.temp="1234567c";
+//adding  planet1 features
+        Planet1 narwhal=new Planet1();
+        narwhal.color="green";
+        narwhal.size="234566788";
 
     }
 }
